@@ -1,4 +1,4 @@
-# Shortcut-Arrow-Changer [中文版本](https://github.com/Bug-Craft/Shortcut-Arrow-Changer/blob/main/README_CN.md)
+# Shortcut Arrow Changer [中文版本](https://github.com/Bug-Craft/Shortcut-Arrow-Changer/blob/main/README_CN.md)
 This is a project for hiding and displaying shortcut arrow icons.
 
 Currently, there are many software programs available to help you hide and display shortcut arrow icons, but they can be too big and complex, and sometimes they don't support certain versions of Windows.
