@@ -1,4 +1,4 @@
-[English Version](https://github.com/Bug-Craft/Shortcut-Arrow-Changer/blob/main/README.md)
+# Shortcut Arrow Changer [English Version](https://github.com/Bug-Craft/Shortcut-Arrow-Changer/blob/main/README.md)
 这是一个用于隐藏和显示快捷方式的箭头的项目。
 
 目前有很多软件可以帮助您隐藏和显示快捷方式的箭头，但是它们太过于庞大和复杂，有时不支持某些版本的 Windows 。
